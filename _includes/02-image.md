@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Owl](https://w.wallhaven.cc/full/j5/wallhaven-j5v72y.jpg)
