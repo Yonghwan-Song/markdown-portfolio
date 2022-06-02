@@ -1,1 +1,1 @@
-![Image of Owl](https://w.wallhaven.cc/full/j5/wallhaven-j5v72y.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
